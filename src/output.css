@@ -776,6 +776,14 @@ video {
   background-color: rgb(220 38 38 / var(--tw-bg-opacity));
 }
 
+.bg-slate-600\/50 {
+  background-color: rgb(71 85 105 / 0.5);
+}
+
+.bg-slate-600\/40 {
+  background-color: rgb(71 85 105 / 0.4);
+}
+
 .p-4 {
   padding: 1rem;
 }
