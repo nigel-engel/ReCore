@@ -4,7 +4,7 @@
 
 .background-grid {
   background-image: linear-gradient(#0f172a 0.5px, transparent 0.5px, transparent calc(100% - 0.5px), #0f172a calc(100% - 0.5px)), linear-gradient(90deg, #0f172a 0.5px, transparent 0.5px, transparent calc(100% - 0.5px), #0e182a calc(100% - 0.5px));
-  background-size: 12% 30%;
+  background-size: 20% 20%;
   border: 0.5px solid #0f172a;
 }
 
